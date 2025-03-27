@@ -9,6 +9,6 @@ export default defineConfig({
   schema: "./shared/schema.ts",
   dialect: "postgresql",
   dbCredentials: {
-    url: process.env.DATABASE_URL,
+    url: "postgresql://db_owner:7NMYA8eDsQvp@ep-jolly-sun-a5imscxm.us-east-2.aws.neon.tech/db?sslmode=require",
   },
 });
