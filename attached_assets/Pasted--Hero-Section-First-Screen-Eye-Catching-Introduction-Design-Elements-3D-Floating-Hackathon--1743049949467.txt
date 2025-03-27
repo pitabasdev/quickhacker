@@ -1,0 +1,135 @@
+ Hero Section (First Screen) – Eye-Catching Introduction
+📌 Design Elements:
+
+3D Floating Hackathon Logo
+
+Glitchy Animated Title
+
+Neon Holographic Effects
+
+Dynamic Particles & Cyberpunk Background
+
+📝 Text Content:
+
+🚀 QuickHacker 2025 – The Ultimate Hackathon for Future Innovators!
+Code. Build. Disrupt. Win.
+Join the biggest hackathon of the year and compete with the best minds in tech!
+
+🎯 CTA Buttons (Glowing, 3D):
+✅ [Register Now]
+✅ [Explore Challenges]
+
+2️⃣ Countdown Timer Section
+📌 Design Elements:
+
+3D Digital Countdown Timer
+
+Neon Glowing Numbers
+
+Futuristic Typography
+
+📝 Text Content:
+
+HURRY UP! THE HACKATHON STARTS IN:
+⏳ 10 Days : 12 Hours : 45 Minutes : 30 Seconds
+🚀 Gear up! Time to bring your ideas to life.
+
+✅ [Register Now]
+
+3️⃣ Why Join QuickHacker? (USP Section)
+📌 Design Elements:
+
+3D Floating Cards with Hover Animation
+
+Neon Icons for Each Benefit
+
+📝 Text Content:
+
+🌟 Why Join QuickHacker?
+🔥 Exciting Prizes – Win $10,000 in rewards!
+🏆 Exclusive Job & Internship Offers – Get noticed by top companies!
+🤝 Networking with Experts – Learn from industry leaders!
+🎓 Enhance Your Skills – Build real-world projects!
+
+✅ [Join the Challenge]
+
+4️⃣ Sponsor & Partner Showcase
+📌 Design Elements:
+
+3D Rotating Sponsor Logos
+
+Glassmorphism Effects
+
+📝 Text Content:
+
+Proudly Sponsored By:
+🌍 Google, Microsoft, OpenAI, GitHub, AWS, Meta
+
+✅ [Become a Sponsor]
+
+5️⃣ Hackathon Categories & Challenges
+📌 Design Elements:
+
+Glowing Neon Tabs for Different Categories
+
+3D Hover Cards for Problem Statements
+
+📝 Text Content:
+
+Choose Your Challenge!
+🚀 AI & Machine Learning
+🔐 Cybersecurity
+🌍 Sustainability & Climate Tech
+💳 FinTech & Blockchain
+🏥 HealthTech & Smart Medical Solutions
+
+✅ [View All Problem Statements]
+
+6️⃣ Success Stories & Testimonials
+📌 Design Elements:
+
+Floating 3D Cards with User Testimonials
+
+Parallax Background Animation
+
+📝 Text Content:
+
+💬 What Past Participants Say
+🏆 "Winning QuickHacker helped me land my dream job at Google!" – Aryan S.
+🎯 "The networking and learning experience was next level!" – Priya M.
+
+✅ [See More Stories]
+
+7️⃣ How to Participate? (Step-by-Step Guide)
+📌 Design Elements:
+
+Animated Steps (1, 2, 3, 4, etc.)
+
+Interactive Progress Bar
+
+📝 Text Content:
+
+🚀 Getting Started is Easy!
+1️⃣ Register – Sign up with your team.
+2️⃣ Choose a Challenge – Pick your problem statement.
+3️⃣ Build & Innovate – Develop your solution.
+4️⃣ Pitch & Win! – Submit your project and compete for prizes.
+
+✅ [Start Now]
+
+8️⃣ Contact & FAQs Section
+📌 Design Elements:
+
+Live Chatbot Icon
+
+Glowing Contact Form
+
+📝 Text Content:
+
+Have Questions? We're Here to Help!
+📍 Location: Bengaluru, India
+📧 Email: support@quickhacker.com
+💬 Join our Discord Community
+
+✅ [Contact Us]
+

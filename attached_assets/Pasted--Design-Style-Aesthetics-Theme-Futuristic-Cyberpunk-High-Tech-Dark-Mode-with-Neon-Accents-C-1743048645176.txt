@@ -1,0 +1,162 @@
+🎨 Design Style & Aesthetics
+Theme: Futuristic, Cyberpunk, High-Tech, Dark Mode with Neon Accents
+
+Color Palette:
+
+Dark Backgrounds (#0D1117, #1A1A2E)
+
+Neon Highlights (#00FFD1 - Cyber Green, #FF007F - Neon Pink, #007BFF - Holographic Blue)
+
+White Text for Contrast (#FFFFFF)
+
+Typography:
+
+Headings: Orbitron / Exo 2 (Futuristic, Bold)
+
+Body Text: Poppins / Roboto (Clean, Readable)
+
+3D Elements:
+
+Glassmorphism Effects (Blurred Panels, Semi-Transparent Cards)
+
+Floating 3D Buttons & Icons
+
+Animated Hover Effects (Glowing Borders, Light Trails)
+
+Parallax Scrolling
+
+Interactive Hackathon Timer
+
+📜 Page Structure & Content
+1️⃣ Home Page (Landing Page)
+📌 Main Features:
+✅ 3D Animated Hero Section:
+
+Floating Hackathon logo
+
+"Join the Ultimate Hacking Showdown!" with glitch animation
+
+Call-to-action (Register Now)
+
+✅ Countdown Timer:
+
+Displays days, hours, minutes until hackathon starts
+
+3D clock with glowing effect
+
+✅ Why Join? (3D Floating Cards)
+1️⃣ Cash Prizes 💰
+2️⃣ Job & Internship Opportunities 🎯
+3️⃣ Networking with Top Industry Leaders 🤝
+
+✅ Sponsor Logos:
+
+Floating 3D sponsor logos rotating in a carousel
+
+✅ Glowing Register Button (CTA)
+
+"Register Now" button with hover glow & futuristic effect
+
+2️⃣ About Page
+📌 Main Features:
+✅ What is QuickHacker?
+
+"QuickHacker is the premier hackathon for innovators, problem solvers, and tech enthusiasts. Build, break, and create groundbreaking projects!"
+
+✅ Who Can Participate?
+
+Open to students, professionals, and entrepreneurs
+
+✅ Hackathon Phases (Timeline with Animated Steps)
+1️⃣ Registration Opens (Date)
+2️⃣ Idea Submission Deadline (Date)
+3️⃣ Prototype Submission (Date)
+4️⃣ Final Pitch & Judging (Date)
+5️⃣ Winners Announced (Date)
+
+✅ 3D Animated Hackathon Journey Map
+
+3️⃣ Problem Statement Page
+📌 Main Features:
+✅ Categories of Problems (Neon Tabs for Quick Access)
+
+AI & ML Innovations
+
+Cybersecurity Challenges
+
+Blockchain Solutions
+
+Smart Healthcare
+
+Sustainability & Green Tech
+
+FinTech Revolution
+
+✅ Each Problem Statement (3D Cards with Hover Expand)
+
+Title: "Cyber Defense Challenge"
+
+Description: "Create an AI-powered firewall that detects real-time cyber threats."
+
+Difficulty: ⭐⭐⭐⭐
+
+Prize: $5000
+
+✅ Live Problem Updates (Marquee Animation)
+
+"New challenges dropping soon! Stay tuned!"
+
+4️⃣ Resources Page
+📌 Main Features:
+✅ Learning Materials
+
+Free Courses
+
+Hackathon Tips
+
+Open-source Project Links
+
+✅ Tech Stack & Tools (3D Floating Icons)
+🟢 React.js 🔵 Next.js 🟣 Python 🟡 Flutter ⚡ Firebase
+
+✅ Mentor Support Section
+
+"Need help? Join our Discord community for mentorship!"
+
+5️⃣ Contact Page
+📌 Main Features:
+✅ 3D Contact Form (Glassmorphism)
+
+Fields: Name, Email, Query Type, Message
+
+Button: "Send Message" (with glitch hover effect)
+
+✅ Location & Socials (Glowing Icons with Hover Pulse)
+📍 Bengaluru, India
+📧 support@quickhacker.com
+💬 Join us on Discord | Follow us on Twitter/X
+
+✅ Live Chat Bot (3D Animated Assistant)
+
+AI-powered chatbot to answer FAQs
+
+🚀 Design Prompts for 3D UI Creation
+If using Figma, Spline, or Three.js, here are some prompts to use:
+
+1️⃣ Homepage Hero Section (3D Logo & Text Animation):
+"A dark futuristic digital interface with a floating neon-glowing logo, accompanied by glitchy text animation for the title 'QuickHacker: The Ultimate Coding Battle.' The background has matrix-style moving numbers and abstract circuit lines."
+
+2️⃣ Countdown Timer:
+"A holographic, glowing 3D digital clock floating in space, counting down dynamically with cyberpunk-style light trails."
+
+3️⃣ Problem Statement Cards:
+"Semi-transparent floating glass cards with neon borders, each displaying a problem statement with 3D animated category icons (AI, Blockchain, Security, etc.)."
+
+4️⃣ Resources Page Icons:
+"3D-rendered futuristic icons for React.js, Python, Blockchain, and Firebase, each floating with a soft glow and interactive hover effect."
+
+🛠️ Tech Stack for Development
+✅ Frontend: React.js + Three.js (for 3D effects)
+✅ Backend: Node.js + Firebase (for real-time updates)
+✅ Database: MongoDB / Firestore
+✅ 3D Elements & UI: Spline / Blender / Figma

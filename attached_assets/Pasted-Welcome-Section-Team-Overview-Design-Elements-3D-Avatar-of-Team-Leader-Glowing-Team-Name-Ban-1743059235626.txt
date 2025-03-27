@@ -1,0 +1,141 @@
+Welcome Section & Team Overview
+📌 Design Elements:
+
+3D Avatar of Team Leader
+
+Glowing Team Name Banner
+
+Animated Stats Panel (Progress, Submission Status, etc.)
+
+📝 Text Content:
+
+👋 Welcome, [Team Leader's Name]!
+🚀 Team Name: [Your Team Name]
+👥 Team Members: [List of Members]
+🏆 Current Challenge: [Selected Problem Statement]
+
+✅ [Edit Team Details]
+
+2️⃣ Team Management Panel
+📌 Design Elements:
+
+Glowing 3D Cards for Each Member
+
+Edit/Remove Member Button with Hover Effects
+
+Add Member Popup (Send Invite via Email)
+
+📝 Text Content:
+
+Manage Your Team
+👥 Members:
+1️⃣ [Member 1 Name] (Leader)
+2️⃣ [Member 2 Name]
+3️⃣ [Member 3 Name]
+✅ Max Limit: 5 Members
+
+✅ [Add New Member] | ✅ [Remove Member]
+
+3️⃣ Hackathon Timeline & Progress Tracker
+📌 Design Elements:
+
+Animated Progress Bar (From Registration to Submission)
+
+Milestone Cards with Checkmarks
+
+Countdown Timer for Submission Deadline
+
+📝 Text Content:
+
+📅 Hackathon Timeline
+✅ Registration Completed
+🔄 Project Development (In Progress...)
+⏳ Submission Deadline: [Countdown Timer]
+🏆 Final Judging & Results Announcement
+
+✅ [View Full Schedule]
+
+4️⃣ Resources & Problem Statements
+📌 Design Elements:
+
+Collapsible Neon Cards for Each Challenge
+
+Downloadable PDFs & API Docs
+
+📝 Text Content:
+
+📚 Resources & Guidelines
+🔍 Your Problem Statement: [Challenge Description]
+📄 Technical Docs & APIs:
+✅ [Download Dataset]
+✅ [View API Docs]
+
+✅ [Explore More Resources]
+
+5️⃣ Code Repository & Submission Panel
+📌 Design Elements:
+
+GitHub/GitLab Integration (Auto Fetch Repo Status)
+
+Upload Files (ZIP, PDF, Video Demo, Presentation)
+
+Submission Progress Tracker
+
+📝 Text Content:
+
+🛠 Project Submission
+🔗 GitHub Repo: [Repo Link] ✅ Last Commit: 2 hrs ago
+📂 Upload Demo Video & Docs:
+✅ [Upload Project Files]
+
+✅ [Submit Project]
+
+6️⃣ Team Communication & Chat
+📌 Design Elements:
+
+Live Chat Box with Team Members
+
+Task Management Board (Kanban View)
+
+📝 Text Content:
+
+💬 Team Chat & Collaboration
+🚀 Stay Connected with Your Team
+📌 [Message Box]
+✅ Assign Tasks & Set Deadlines
+
+✅ [Open Team Chat]
+
+7️⃣ Judging Criteria & Scoreboard
+📌 Design Elements:
+
+Live Scoreboard (Dynamic Updates)
+
+Criteria Breakdown with Weightage
+
+📝 Text Content:
+
+🏆 Judging Criteria
+🔹 Innovation - 30%
+🔹 Technical Implementation - 25%
+🔹 Impact - 20%
+🔹 Presentation & Documentation - 15%
+🔹 Team Collaboration - 10%
+
+✅ [View Live Leaderboard]
+
+8️⃣ Support & Help Desk
+📌 Design Elements:
+
+Live Chatbot for Quick Help
+
+FAQs & Contact Form
+
+📝 Text Content:
+
+🔧 Need Help?
+📧 Email: support@quickhacker.com
+💬 Join our Discord for Live Support
+
+✅ [Contact Support]
+
